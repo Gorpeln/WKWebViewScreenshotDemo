@@ -10,7 +10,7 @@
 #import <WebKit/WebKit.h>
 #import "WKWebView+GPViewCapture.h"
 
-#define KCapUrl @"https://github.com/GorpelnChen?tab=repositories"
+#define KCapUrl @"https://github.com/Gorpeln?tab=repositories"
 
 
 @interface ViewController ()<WKNavigationDelegate>
